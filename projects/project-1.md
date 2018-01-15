@@ -25,6 +25,7 @@ I have been team leader and lead developer of the core systems task group since 
   <li>Implementing core language constructs including stack frames, closures, and first-class continuations</li>
   <li>Overseeing development of the compiler which complements the VM as part of the evaulation mechanism</li>
   <li>Implementing numerical standard library procedures, including transcendental trigonometric and logarithmic functions</li>
+</ul>
 
 Here is some example code from the project:
 
