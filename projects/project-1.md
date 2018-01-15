@@ -1,11 +1,12 @@
 ---
 layout: project
 type: project
+published: true
 image: images/shaka_scheme.png
 title: Shaka Scheme
-permalink: projects/shaka_scheme
+permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
-date: 2017-01-08 - Present
+date: 2017-01-08
 labels:
   - Programming Languages
   - Scheme
