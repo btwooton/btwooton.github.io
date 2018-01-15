@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/shaka_scheme.png
 title: Shaka Scheme
-permalink: projects/project-1
+permalink: projects/shaka_scheme
 # All dates must be YYYY-MM-DD format!
 date: 2017-01-08
 labels:
