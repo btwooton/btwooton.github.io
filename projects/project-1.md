@@ -1,44 +1,56 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/shaka_scheme.png
+title: Shaka Scheme
+permalink: projects/shaka_scheme
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
+  - Programming Languages
+  - Scheme
+  - Lisp
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I have been leader of Core Systems development team on this project for the past 2, going on 3 semesters.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+Shaka Scheme is a student driven software development project, the goal of which is to design and implement an interpreter for the Scheme programming language, conformant to the <a href="https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSHomePage.md?fileviewer=file-view-default"> R7RS standard.</a> Shaka Scheme, once completed, will be the only Scheme implementation developed entirely in C++, using modern C++11/C++17 idioms. One of the motivating factors behind this undertaking is to provide a model code-base and learning tool for novice/intermediate software engineers who are interested in programming language design and implementation.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+I have been team leader and lead developer of the core systems task group since I joined this project in Spring 2017. My primary development tasks and accomplishments have included the following: 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+<ul>
+  <li>Implementing the base classes for numeric datatypes, including the initial scaffolding for the <a href="https://en.wikipedia.org/wiki/Numerical_tower">full numeric tower</a> required by R7RS</li>
+  <li>Implementing a Heap Virtual Machine as the core evaluation machine driving the interpreter</li>
+  <li>Implementing core language constructs including stack frames, closures, and first-class continuations</li>
+  <li>Overseeing development of the compiler which complements the VM as part of the evaulation mechanism</li>
+  <li>Implementing numerical standard library procedures, including transcendental trigonometric and logarithmic functions</li>
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some example code from the project:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+// (lcm n1 ...)
+// Calculates the least common multiple of an arbitrary number of arguments
+Args lcm_numbers(Args args) {
+
+  shaka::Number result = args[0]->get<shaka::Number>();
+  shaka::Number next;
+  shaka::Number gcd;
+  for (std::size_t i = 1; i < args.size(); i++) {
+    next = args[i]->get<shaka::Number>();
+    gcd = gcd_pair(result, next);
+    result = (result*next)|gcd;
+  }
+
+  NodePtr result_value = create_node(Data(result));
+
+  Args result_vector = {result_value};
+
+  return result_vector;
 }
+
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [UH Manoa Transpiler Project Github Page](https://github.com/uhmanoa-transpiler-project/shaka-scheme).
 
 
 
