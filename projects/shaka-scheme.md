@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/shaka_scheme.png
+image: images/shaka_scheme_repl.png
 title: Shaka Scheme
 permalink: projects/shaka_scheme
 # All dates must be YYYY-MM-DD format!
