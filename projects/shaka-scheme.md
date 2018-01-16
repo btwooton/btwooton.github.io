@@ -18,6 +18,7 @@ summary: I have been leader of Core Systems development team on this project for
 Shaka Scheme is a student driven software development project, the goal of which is to design and implement an interpreter for the Scheme programming language, conformant to the <a href="https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSHomePage.md?fileviewer=file-view-default"> R7RS standard.</a> Shaka Scheme, once completed, will be the only Scheme implementation developed entirely in C++, using modern C++11/C++14 idioms. One of the motivating factors behind this undertaking is to provide a model code-base and learning tool for novice/intermediate software engineers who are interested in programming language design and implementation.
 
 <centered><img class="small image" src="../images/shaka_scheme_large.png"></centered>
+<centered>Example Code for Closure Objects</centered>
 
 I have been team leader and lead developer of the core systems task group since I joined this project in Spring 2017. My primary development tasks and accomplishments have included the following:
 
