@@ -31,6 +31,8 @@ I have been team leader and lead developer of the core systems task group since 
 
 By participating in this project, I have learned a variety of software development idioms and best practices including object oriented design, test-driven development, source control management, and agile software development. This project has taught me a lot about how programming languages are implemented and has provided me with the inspiration to pursue other language implementation projects in the future.
 
+<img class="ui large bottom image" src="../images/shaka_scheme_large.png">
+
 Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon"></i>UH Manoa Transpiler Project</a>
 
 
