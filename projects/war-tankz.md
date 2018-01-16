@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/war_tankz.png
 title: World of War Tankz
-permalink: projects/war-tankz
+permalink: projects/war_tankz
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-30
 labels:
