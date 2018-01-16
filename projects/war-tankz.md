@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/war_tankz.png
-title: World of War Tankz
+title: World of War TankZ
 permalink: projects/war_tankz
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-30
@@ -16,7 +16,7 @@ summary: My team and I implemented a 2D tank battle arena game for our ICS 111 f
 
 <img class="ui medium right floated rounded image" src="../images/war_tankz.png">
 
-World of War Tankz is a 2D, top-down perspective, two player tank battle arena game. Players are pitted against one another in a sudden death bout. The first player to bring their opponent's health points down to zero wins the game. This game features projectile physics allowing for bullets to ricochet off of obstacles and walls. Randomized power ups are generated at set intervals within the arena, including weapon upgrades, shields, med-kits, and speed boosts.
+World of War TankZ is a 2D, top-down perspective, two player tank battle arena game. Players are pitted against one another in a sudden death bout. The first player to bring their opponent's health points down to zero wins the game. This game features projectile physics allowing for bullets to ricochet off of obstacles and walls. Randomized power ups are generated at set intervals within the arena, including weapon upgrades, shields, med-kits, and speed boosts.
 
 In this project, my role was to design and implement the tank mechanics, projectiles, physics, and power up mechanics. The most challenging aspect in coding up the game logic for this project was figuring out how to get the projectile physics to work such that projectiles could richochet off of any obstacle on the map.
 
