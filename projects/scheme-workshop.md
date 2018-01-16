@@ -26,7 +26,9 @@ Hosting this workshop was a great learning experience for me, as it was the firs
 One of my favorite features of the Scheme programming language, that I feel grants it a great deal of power over other languages, is its ability to treat source code as data. The Scheme language comes with a built in procedure called quote that allows programmers to defer the evaluation of Scheme expressions until a later time. Quoted expressions can be passed to procedures, returned from procedures as values, and placed in complex data structures. This ability to treat code as data arises directly from the fact that Scheme exhibits autoiconicity; the syntax for code is identical to the syntax for data.
 
 ``` scheme
-  (
-
+  (define square (lambda (x) (* x x)))
+  (define a (quote (square 5)))
+  (eval a) => 25
+```
 
 Source: <a href="https://github.com/btwooton/scheme-workshop"><i class="large github icon"></i>Scheme Workshop</a>
