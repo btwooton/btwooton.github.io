@@ -31,6 +31,6 @@ One of my favorite features of the Scheme programming language, that I feel gran
   (eval a) => 25
 ```
 
-In the above example, we see that by quoting the call to `(square 5)`, we were able to defer its evaluation to a later time. This allowed us to save that code as a variable with `(define a ...)`, and subsequently call the `(eval ...)` procedure on that variable to produce the result of 25. If you are interested in exploring the other modules of this workshop, follow the link below.
+In the above example, we see that by quoting the call to `(square 5)`, we were able to defer its evaluation to a later time. This allowed us to save that code as a variable with `define`, and subsequently call the `eval` procedure on that variable to produce the result of 25. If you are interested in exploring the other modules of this workshop, follow the link below.
 
 Source: <a href="https://github.com/btwooton/scheme-workshop"><i class="large github icon"></i>Scheme Workshop</a>
