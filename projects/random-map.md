@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/random_map.gif
 title: RandomMap
-permalink: projects/random-map
+permalink: projects/random_map
 # All dates must be YYYY-MM-DD format!
 date: 2017-03-18
 labels:
