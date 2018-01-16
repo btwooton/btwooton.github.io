@@ -15,7 +15,7 @@ labels:
 summary: I held a workshop to introduce and teach the basics of the Scheme programming language
 ---
 
-<img class="ui medium right floated rounded image" src="../images/scheme_workshop_page_image.png">
+<img class="ui medium right floated rounded image" src="../images/scheme_workshop_page_img.png">
 
 
 Source: <a href="https://github.com/btwooton/RandomMap"><i class="large github icon"></i>RandomMap</a>
