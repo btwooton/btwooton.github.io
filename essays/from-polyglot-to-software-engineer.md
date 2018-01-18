@@ -32,7 +32,7 @@ If I was going to become a competent enough programmer, able to develop complica
 
 ## A Programming Language Polyglot
 
-<img class="ui small right circular floated image" src="../images/first-class-function.jpg">
+<img class="ui small right circular floated image" src="../images/first-class-function.png">
 What was intended to be a brief inquiry quickly developed into a long term obsession. I was enamored by the seemingly endless variety of programming languages available to the would be programmer. Over the course of 7 years, I bounced between Ruby, Java, Perl, C, Prolog, Pascal, Ada, Common Lisp, Scheme, Haskell, Standard ML, and even occasionally revisited Python and C++. I discovered an affinity for the functional programming languages such as Haskell and Standard ML, as these languages possess high level language constructs such as algebraic data types, first class functions, and pattern matching that I found to be both mind bending and aesthetically pleasing. As an unfortunate byproduct of my sort of “language attention deficit,” I spent more time sampling the different languages than I did composing complex programs in any one language. If I was to become an accomplished software developer, I needed to find a way to narrow my focus.
 
 ## Building a Foundation
