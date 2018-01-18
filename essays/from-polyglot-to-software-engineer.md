@@ -32,15 +32,15 @@ If I was going to become a competent enough programmer, able to develop complica
 
 ## A Programming Language Polyglot
 
-<img class="ui small right circular floated image" src="../first-class-function.jpg">
+<img class="ui small right circular floated image" src="../images/first-class-function.jpg">
 What was intended to be a brief inquiry quickly developed into a long term obsession. I was enamored by the seemingly endless variety of programming languages available to the would be programmer. Over the course of 7 years, I bounced between Ruby, Java, Perl, C, Prolog, Pascal, Ada, Common Lisp, Scheme, Haskell, Standard ML, and even occasionally revisited Python and C++. I discovered an affinity for the functional programming languages such as Haskell and Standard ML, as these languages possess high level language constructs such as algebraic data types, first class functions, and pattern matching that I found to be both mind bending and aesthetically pleasing. As an unfortunate byproduct of my sort of “language attention deficit,” I spent more time sampling the different languages than I did composing complex programs in any one language. If I was to become an accomplished software developer, I needed to find a way to narrow my focus.
 
 ## Building a Foundation
 
-<img class="ui small left circular floated image" src="../foundation.jpg">
+<img class="ui small left circular floated image" src="../images/foundation.jpg">
 I decided that the best way to re-approach the field of computer science from first principles would be to head back to school, which brings me to the current point in my journey. I have been enrolled in the B.S. in ICS program here at UH Manoa for two, going on three semesters now. During this time, I have been solidifying my knowledge of the basics of theoretical and applied computer science, with the goal of transitioning into a master’s degree program. I have also been blessed with the opportunity to participate in a project to develop an implementation of the Scheme programming language, which happens to be my favorite language of all. Coming back to school has turned out to be a positive experience, and I feel that my skills as a software developer have improved exponentially in this relatively short amount of time.
 
 ## Facing the Future
 
-<img class="ui small right circular floated image" src="../future.jpg">
+<img class="ui small right circular floated image" src="../images/future.jpg">
 In the future, I hope to find creative ways to blend my background as a biologist, enthusiasm for  programming languages and theory, and passion for software development together. I am looking forward to learning full stack development in MeteorJS this semester in ICS 314.  Web development is a domain that I have had little to no prior exposure to, so I am looking forward to acquiring a new set of skills. My hope is that I will develop a level of good taste, intuition, and creative vision that will enable me to produce large scale applications that solve real world issues.
