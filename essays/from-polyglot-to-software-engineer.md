@@ -15,20 +15,20 @@ labels:
 My journey as a software engineer and developer began unassumingly enough. As a young and inexperienced lab technician at the Hawaii Cooperative Fishery Research Unit, I began to grow weary of spending day after day sawing away furiously at dead groupers, leaving the lab covered in scales and fish offal. Somehow, I had imagined that life as a marine biologist would be more glamorous than this.
 
 <img class="ui small right rounded floated image" src="../images/r-logo.jpeg">
-I found solace in performing data analysis utilizing the R programming language and statistical environment. I was mesmerized by how a simple series of text based commands could compel the computer to produce elaborate charts and figures. I wondered, “what else could I do with this newfound craft of programming?”
+I found solace in performing data analysis utilizing the R programming language and statistical environment. I was mesmerized by how a simple series of text based commands could compel the computer to produce elaborate charts and figures. I wondered, “what else can I do with this newfound craft of programming?”
 
 ## Down the Rabbit Hole
 
 <img class="ui small left rounded floated image" src="../images/rabbit-hole.webp">
-As it turns out, you can get computers to do a plethora of amazing things by sitting down and writing some code. As an avid gamer, I settled on the idea of developing the next successful indie game. To say that this was easier said than done would be an understatement. After a few quick Google queries, I discovered that I would need to learn C++, as that seemed to be the language of choice in the game development industry. 
+As it turns out, you can get computers to do a plethora of amazing things by sitting down and writing some code. As an avid gamer, I settled on the idea of developing the next successful indie game. To say that this was easier said than done would be an understatement. After a few quick Google queries, I discovered that I needed to learn C++, as that appeared to be the language of choice in the game development industry. 
 
 <img class="ui small right rounded floated image" src="../images/pointer-joke.jpg">
-As a complete newbie, C++ turned out to be an incredibly unforgiving language, and I felt discouraged by my inability to grasp some of the quirkier concepts of the language, such as pointers and templates. Additionally, the concept of object-oriented programming was completely over my head at this point. Any dream of implementing my own game that other people would feel excited to play felt thousands of miles away.
+As a complete newbie, C++ turned out to be an incredibly unforgiving language, and I felt discouraged by my inability to grasp some of the quirkier concepts of the language, such as pointers and templates. Additionally, the concept of object-oriented programming was completely over my head at this point. Any dream of implementing a game that other people would feel excited to play felt thousands of miles away.
 
 ## Back to Basics
 
 <img class="ui small left rounded floated image" src="../images/white-space.jpg">
-If I was going to become a competent enough programmer, able to develop complicated programs such as games, I needed to start with something simple. I initially chose the Python programming language, after reading numerous recommendations citing its merits as a beginner’s language. Python was certainly much easier for my callow eyes to grok than C++, yet I found that my code was still somehow plagued with frustrating syntax errors. Unsatisfied by my brief excursion in Python, I began to explore the vast  ecosystem of programming languages, searching for one to call my own. 
+If I was going to become a competent enough programmer, capable of developing complex programs such as games, I needed to start with something simple. I initially chose the Python programming language, after reading numerous recommendations citing its merits as a beginner’s language. Python was certainly much easier for my callow eyes to grok than C++, yet I found that my code was still somehow plagued with frustrating syntax errors. Unsatisfied by my brief excursion in Python, I began to explore the vast ecosystem of programming languages, searching for one to call my own. 
 
 ## A Programming Language Polyglot
 
