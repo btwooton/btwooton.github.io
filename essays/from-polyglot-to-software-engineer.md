@@ -28,7 +28,7 @@ As a complete newbie, C++ turned out to be an incredibly unforgiving language, a
 ## Back to Basics
 
 <img class="ui small left rounded floated image" src="../images/white-space.jpg">
-If I was going to become a competent enough programmer, able to develop complicated programs such as games, I needed to start with something simple. I initially chose the Python programming language, after reading numerous recommendations citing its merits as a beginner’s language. Python was certainly much easier for my callow eyes to grok than C++, yet I found that my code was still somehow plagued with frustrating syntax errors. Unsatisfied by my brief excursion in Python, I began to explore the vast  ecosystem of programming languages, searching for a suitable candidate. 
+If I was going to become a competent enough programmer, able to develop complicated programs such as games, I needed to start with something simple. I initially chose the Python programming language, after reading numerous recommendations citing its merits as a beginner’s language. Python was certainly much easier for my callow eyes to grok than C++, yet I found that my code was still somehow plagued with frustrating syntax errors. Unsatisfied by my brief excursion in Python, I began to explore the vast  ecosystem of programming languages, searching for one to call my own. 
 
 ## A Programming Language Polyglot
 
