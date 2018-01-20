@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-## Bird’s Eye Perspective
+## Hatching the Nest Egg
 JavaScript is undoubtedly one of the most, if not the most ubiquitous programming language in existence today. Indeed, a quick gander at <a href="https://octoverse.github.com/">octoverse</a> reveals it to be the most popular language for open source projects on GitHub by far, with 2.3 million pull requests, more than double that of its closest competitor Python. Within the past decade, new libraries and frameworks catering to JavaScript development have hatched with a fecundity unchecked. Technologies like Ember, Express, Backbone, Angular, Vue, and React among many others, are constantly redefining what it means to write large-scale software systems in the language. Perhaps the most intriguing of such developments has been JavaScript’s incursion into the server side domain, with the advent of Node.js and the Chrome V8 engine. Now a multitude of “full-stack” frameworks exist, allowing developers to roll out web applications developed entirely in JavaScript.
 
 ## Leaving the Nest
