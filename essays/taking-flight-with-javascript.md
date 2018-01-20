@@ -18,5 +18,21 @@ JavaScript is undoubtedly one of the most, if not the most ubiquitous programmin
 ## Spread Those Wings
 Considering the relatively minute amount of JavaScript coding that I have actually done in my fledgling career as a developer, it is fair to say that I lack the wherewithal to pass too much judgment on the language at this point. As a soi-disant programming language enthusiast, I will say that while I tend to prefer developing large scale systems in languages with strong static typing disciplines, JavaScript possesses many qualities that I find endearing, despite it being both dynamic and weakly typed. JavaScript owes much of its heredity to the Scheme programming language. Brendan Eich, the man who created JavaScript in an astonishingly brief 10 days, had originally intended to embed the Scheme language in the browser, but was later coerced by his superiors at Netscape Communications to create a language aesthetically more aligned with the then rising star, and overly hyped Java programming language. Despite the surface level similarities to Java, the influence of Scheme shines through in many ways in JavaScript’s core design. This is perhaps most clearly exhibited in the language’s treatment of functions as first class entities, allowing for higher-order functions to be composed with little effort. As a fan of functional programming, I find JavaScript’s functional features to be both well designed and a pleasure to use.
 
+```javascript
+
+// Returning a function from a function
+// The makeAdder function takes in a number
+// closes over its value, and returns a function
+// that can then add other numbers to this value
+function makeAdder(num) {
+	return function(toAdd) {
+  	return num + toAdd;
+  }
+}
+
+let add3 = makeAdder(3);
+add3(5) => 8;
+```
+
 ## A New Nest?
-While my tendency towards statically typed languages may still preclude me from adopting JavaScript as my primary development language longterm, I do see the merits of its ubiquity and widespread library support. I look forward to seeing how a framework like Meteor can awaken the true potential of the language as a medium for composing complex software systems. While it is perhaps a stretch to assert that the bird has found his new nesting site, it is certainly safe to say that he will enjoy the flight there. 
+While my tendency towards statically typed languages may still preclude me from adopting JavaScript as my primary development language longterm, I do see the merits of its ubiquity and robust library support. I look forward to seeing how a framework such as Meteor can awaken the true potential of the language as a medium in which to compose complex software systems. While it is perhaps a stretch to assert that this bird has found his new nesting site, it is certainly safe to say that he will enjoy the flight there. 
