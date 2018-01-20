@@ -34,7 +34,7 @@ function makeAdder(num) {
 }
 
 let add3 = makeAdder(3);
-add3(5) => 8;
+add3(5) // => 8;
 ```
 
 ## A New Nest?
