@@ -28,8 +28,8 @@ Considering the relatively minute amount of JavaScript coding that I have actual
 // closes over its value, and returns a function
 // that can then add other numbers to this value
 function makeAdder(num) {
-	return function(toAdd) {
-  	return num + toAdd;
+  return function(toAdd) {
+    return num + toAdd;
   }
 }
 
