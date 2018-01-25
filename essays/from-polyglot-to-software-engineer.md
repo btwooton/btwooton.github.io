@@ -19,7 +19,7 @@ I found solace in performing data analysis utilizing the R programming language 
 
 ## Down the Rabbit Hole
 
-<img class="ui small left rounded floated image" src="../images/rabbit-hole.webp">
+<img class="ui small left rounded floated image" src="../images/rabbit-hole.png">
 As it turns out, you can get computers to do a plethora of amazing things by sitting down and writing some code. As an avid gamer, I settled on the idea of developing the next successful indie game. To say that this was easier said than done would be an understatement. After a few quick Google queries, I discovered that I needed to learn C++, as that appeared to be the language of choice in the game development industry. 
 
 <img class="ui small right rounded floated image" src="../images/pointer-joke.jpg">
