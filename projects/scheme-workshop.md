@@ -12,7 +12,7 @@ labels:
   - Racket
   - Programming Languages
   - Teaching
-summary: I held a workshop to introduce and teach the basics of the Scheme programming language
+summary: I held a workshop to introduce and teach the basics of the Scheme programming language.
 ---
 
 At the start of Fall 2017 semester, I took it upon myself to hold a workshop to introduce people to the Scheme programming language. The primary purpose of this workshop was to educate individuals who were looking to join the Shaka Scheme project, but was also left open to anybody who was interested in learning to program in Scheme. I prepared a series of 11 modules, along with code examples and exercises, encompassing a wide range of topics.
