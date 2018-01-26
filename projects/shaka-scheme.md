@@ -25,11 +25,11 @@ I have been team leader and lead developer of the core systems task group since 
   <li>Implementing the base classes for numeric datatypes, including the initial scaffolding for the <a href="https://en.wikipedia.org/wiki/Numerical_tower">full numeric tower</a> required by R7RS.</li>
   <li>Implementing a Heap Virtual Machine as the core evaluation machine driving the interpreter.</li>
   <li>Implementing core language constructs including stack frames, closures, and first-class continuations.</li>
-  <li>Overseeing development of the compiler which complements the VM as part of the evaulation mechanism.</li>
+  <li>Overseeing development of the compiler which complements the VM as part of the evaluation mechanism.</li>
   <li>Implementing numerical standard library procedures, including transcendental trigonometric and logarithmic functions.</li>
 </ul>
 
-By participating in this project, I have learned a variety of software development idioms and best practices including object oriented design, test-driven development, source control management, and agile software development. This project has taught me a lot about how programming languages are implemented and has provided me with the inspiration to pursue other language implementation projects in the future.
+By participating in this project, I have learned a variety of software development idioms and best practices including object oriented design, test-driven development, source control management, and agile software development. This project has taught me a lot about how programming languages are implemented, and has provided me with the inspiration to pursue other language implementation projects in the future.
 
 Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon"></i>UH Manoa Transpiler Project</a>
 
