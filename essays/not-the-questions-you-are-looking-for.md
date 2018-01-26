@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: These Are Not The Questions You Are Looking For
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-24
+date: 2018-01-25
 labels:
   - Software Engineering
   - Learning
