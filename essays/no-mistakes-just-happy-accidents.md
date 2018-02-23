@@ -18,7 +18,7 @@ Rocky first impressions aside, after becoming more comfortable with Semantic UI 
 
 Reverse engineering the UI of the <a href="https://www.monavie.com/">MonaVie website</a> in Semantic proved to be a joy, as I was amazed at how quickly I was able to generate a mock-up that looks reasonably close to the original. Semantic makes it dead simple to piece together, position, and style menus and navigation bars, something which I would struggle with endlessly were I forced to get the job done in pure HTML/CSS.
 <figure>
-<img class="ui medium centered rounded image" style="" src="../images/monavie_reconstruct.png">
+<img class="ui large centered rounded image" style="" src="../images/monavie_reconstruct.png">
   <figcaption style="text-align: center"><em>My mock-up of the MonaVie home page UI</em></figcaption>
 </figure>
 
