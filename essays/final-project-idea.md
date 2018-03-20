@@ -8,9 +8,10 @@ labels:
   - Meteor
 ---
 
-##Overview (including “The problem” and “The solution”)##
+<h1>Overview (including “The problem” and “The solution”)</h1>
 It can be difficult to fit a consistent fitness routine into an already packed college student schedule. Many people are intimidated by the idea of going to the gym to work-out. Also, the hours of the gym on campus sometimes don't work out for a variety of schedules. It would be convenient to have a centralized platform on which people can post ideas for flexible and personalized fitness routines, things such as yoga etc. that can be done in one's dorm room, or somewhere private.
-##Mockup page ideas##
+
+<h1>Mockup page ideas</h1>
 <ul>
   <li>Landing page</li>
   <li>User home page with personalized work-out routines</li>
@@ -20,7 +21,7 @@ It can be difficult to fit a consistent fitness routine into an already packed c
   <li>Account creation page, inserting personal info, select fitness goals?</li>
 </ul>
 
-##Use case ideas##
+<h1>Use case ideas</h1>
 <ul>
   <li>New user goes to Landing page, creates new account, choosing fitness goals along the way</li>
   <li>User is then brought to their home page with a list of suggested work-out routines</li>
@@ -28,7 +29,7 @@ It can be difficult to fit a consistent fitness routine into an already packed c
   <li>If the user wants to share/contribute their own work out ideas, they can set up a public profile page to do so</li>
 </ul>
 
-##Beyond the basics##
+<h1>Beyond the basics</h1>
 <ul>
   <li>Implementing social networking features, having a friends list, comparing fitness stats etc.</li>
   <li>Facilitate the organization of public fitness classes/workshops, work-out sessions etc.</li>
