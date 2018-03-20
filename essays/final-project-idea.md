@@ -7,6 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
+Authors: Hoku Tobin and Billy Troy Wooton
 
 <h2>Overview (including “The problem” and “The solution”)</h2>
 It can be difficult to fit a consistent fitness routine into an already packed college student schedule. Many people are intimidated by the idea of going to the gym to work-out. Also, the hours of the gym on campus sometimes don't work out for a variety of schedules. It would be convenient to have a centralized platform on which people can post ideas for flexible and personalized fitness routines, things such as yoga etc. that can be done in one's dorm room, or somewhere private.
