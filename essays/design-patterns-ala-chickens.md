@@ -41,7 +41,8 @@ Many people falsely believe that chicken behavior is a dry, boring subject. Thos
 During my time as a lead developer on the Shaka Scheme project, I was presented with many opportunities to leverage a few of the aforementioned design patterns to aid me in tending to my flock. At one point, I discovered that I required a means by which to ensure that the resources devoted to the creation of each chicken would eventually be recycled, without needing to manage the gruesome task myself. In accomplishing this, I leveraged a special instance of the factory pattern to ensure that any expired or unneeded chickens would be dealt with accordingly.  Enter the “garbage collector chicken!” Just kidding, here come code examples illustrating what I found to be an interesting use case of the factory pattern.
 
 ``` c++
-/** Implements the internal heap allocated memory object managed by class GC */
+/** Implements the internal heap allocated memory 
+ * object managed by class GC */
 class GCData {
   friend class GC;
   private:
@@ -52,7 +53,8 @@ class GCData {
 The GCData class has a private constructor, so GCData objects cannot be constructed directly. Instead, one must use the factory `GC` class to create heap allocated objects.
 
 ``` c++
-/** Implements the garbage collector object
+/** Implements the garbage collector factory
+ *  and memory manager object */
 class GC {
   public:
   GCData *create_data(const Data& data) {
