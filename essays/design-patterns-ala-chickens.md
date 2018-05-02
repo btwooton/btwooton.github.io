@@ -30,7 +30,7 @@ When placed in the precarious position of needing to produce a potpourri of poul
 On the other hand, we may instead find ourselves requiring a solitary exemplar of avian majesty, the ownership of which lies not in the hands of any single chicken tender, but whose glory is instead made available to the entire globe of poultry practicioners upon which it stands, to be gazed upon in awe and wonder. Look no further than the omnipotent “singleton chicken!” After all, what good is it to have a multitude of sub-par chickens, when we can have a single chicken that suits our needs better than the rest?
 
 ## Structure
-<img class="ui small left floated circular image" src="../images/decorator_chicken.jpg">
+<img class="ui small right floated circular image" src="../images/decorator_chicken.jpg">
 While chickens certainly exhibit a highly predictable bodily structure, with feathers, wings, a beak, and talons, there is much that we can do to elaborate on this seemingly mundane phenotype. Are you a bored bird shepherd, looking to add some variety to your flock? Instead of investing precious time and scarce resources in a new group of Galliforms, enlist the aid of the “decorator chicken!” The decorator chicken has the just the right touch of creativity to help each of your chickens learn new behavior, find a new purpose, and gain a new lease on life. 
 
 ## Behavior
