@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns: As Explained by Chickens
+title: [Design Patterns: As Explained by Chickens]
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
