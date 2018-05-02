@@ -65,6 +65,6 @@ class GC {
 };
 ```
 
-The `GC` object holds an internal collection of pointers to the heap allocated `GCData` objects so that these objects can always be accessed by the language implementation, and freed if they are no longer referenced by the language runtime.
+The `GC` object holds an internal collection of pointers to the heap allocated `GCData` objects so that these objects can always be accessed by the language implementation, and deallocated if they are no longer referenced by the language runtime.
     
 What arose from this design turned out to be a compact and uniform means to create heap allocated objects, and have their resources managed by the Garbage Collector by default. A potential improvement to this design would have been to set up the Garbage Collector as a singleton, so that only a single instance of the `GC` class could exist at a given time. In summary, I believe that design patterns can serve to ease the cognitive burden involved in designing complex systems, enabling programmers to translate their ideas into code more readily than they would otherwise be able to if they were forced to always come up with a new design on their own. Don’t believe me? Just ask the chickens!
