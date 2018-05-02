@@ -17,8 +17,8 @@ Design patterns are essentially prepackaged, general purpose solutions that can 
 ## Creation
 
 <img class="ui small left floated circular image" src="../images/chicken_or_egg.jpg">
-<img class="ui small right floated circular image" src="../images/chicken_factory.jpg">
 The start of any great story begins with creation, and chickens are surely no exception to this. Sometimes, we want to be able to go off and manufacture a diverse array of chickens, without getting bogged down by the details of how to actually create each individual hen or rooster. When placed in the precarious position of needing to produce a potpourri of poultry-perfection, one should surely leave it up to a factory to yield the desired products. The primary benefit of delegating the creation of chickens to a factory, is that the factory is essentially capable of creating any quantity, and any type of chicken you could imagine, such as the majestic “honor your ancestors chicken.” They are all still chickens, and yet, so much more.
+<img class="ui small right floated circular image" src="../images/chicken_factory.jpg">
 <figure>
 <img class="ui medium centered rounded image" src="../images/chicken_dinosaur.jpg">
   <figcaption style="text-align: center"><em>In case you were wondering, chicken actually inherits from dinosaur</em></figcaption>
@@ -69,4 +69,4 @@ class GC {
 
 The `GC` object holds an internal collection of pointers to the heap allocated `GCData` objects so that these objects can always be accessed by the language implementation, and deallocated if they are no longer referenced by the language runtime.
     
-What arose from this design turned out to be a compact and uniform means to create heap allocated objects, and have their resources managed by the Garbage Collector by default. A potential improvement to this design would have been to set up the Garbage Collector as a singleton, so that only a single instance of the `GC` class could exist at a given time. In summary, I believe that design patterns can serve to ease the cognitive burden involved in designing complex systems, enabling programmers to translate their ideas into code more readily than they would otherwise be able to if they were forced to always come up with a new design on their own. Don’t believe me? Just ask the chickens!
+What arose from this design turned out to be a compact and uniform means of creating heap allocated objects, and having their resources managed by the Garbage Collector by default. A potential improvement to this design could have been to set up the Garbage Collector as a singleton, so that only a single instance of the `GC` class could exist in the runtime system at a given time. In summary, I believe that design patterns can serve to ease the cognitive burden involved in designing complex systems, enabling programmers to translate their ideas into code more readily than they would otherwise be able to if they were forced to always come up with a new design on their own. Don’t believe me? Just ask the chickens!
