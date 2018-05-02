@@ -10,6 +10,8 @@ labels:
 ---
 
 ## A Convenient Heuristic
+
+<img class="ui small right floated rounded image" src="../images/ninja_chicken.png">
 Design patterns are essentially prepackaged, general purpose solutions that can be applied to solve common problems that frequently crop up in the design of complex software systems. Design patterns have been claimed to enable rookie coders to harness the powers of the infamous hacker ninja! However, the concept of design patterns is far from a trivial one, which is why I have decided to leave it up to the chickens to elaborate on the intricacies of this subject. The biological life history of any jungle fowl can be summarized into three broad topics: creation, structure and behavior.
 
 ## Creation
