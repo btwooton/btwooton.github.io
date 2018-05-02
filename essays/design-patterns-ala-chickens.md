@@ -17,15 +17,17 @@ Design patterns are essentially prepackaged, general purpose solutions that can 
 ## Creation
 
 <img class="ui small left floated circular image" src="../images/chicken_or_egg.jpg">
-The start of any great story begins with creation, and chickens are surely no exception to this. Sometimes, we want to be able to go off and manufacture a diverse array of chickens, without getting bogged down by the details of how to actually create each individual hen or rooster. When placed in the precarious position of needing to produce a potpourri of poultry-perfection, one should surely leave it up to a factory to yield the desired products. The primary benefit of delegating the creation of chickens to a factory, is that the factory is essentially capable of creating any quantity, and any type of chicken you could imagine, such as the majestic “honor your ancestors chicken.” They are all still chickens, and yet, so much more.
+The start of any great story begins with creation, and chickens are surely no exception to this. Sometimes, we want to be able to go off and manufacture a diverse array of chickens, without getting bogged down by the details of how to actually create each individual hen or rooster.
 <img class="ui small right floated circular image" src="../images/chicken_factory.jpg">
+When placed in the precarious position of needing to produce a potpourri of poultry-perfection, one should surely leave it up to a factory to yield the desired products. The primary benefit of delegating the creation of chickens to a factory, is that the factory is essentially capable of creating any quantity, and any type of chicken you could imagine, such as the majestic “honor your ancestors chicken.” He is still a chickens, and yet so much more.
+
 <figure>
 <img class="ui medium centered rounded image" src="../images/chicken_dinosaur.jpg">
   <figcaption style="text-align: center"><em>In case you were wondering, chicken actually inherits from dinosaur</em></figcaption>
 </figure>
 
 <img class="ui small left floated circular image" src="../images/singleton_chicken.png">
-On the other hand, we may instead find ourselves requiring a solitary exemplar of avian majesty, the ownership of which lies not in the hands of any single chicken connoisseur, but whose glory is instead made available to the entire globe upon which it stands, to be gazed upon in awe and wonder. In this case, look no further than the magnificent “singleton chicken!” After all, what good is it to have a multitude of sub-par chickens, when we can have a single chicken that suits our needs better than all of the rest?
+On the other hand, we may instead find ourselves requiring a solitary exemplar of avian majesty, the ownership of which lies not in the hands of any single chicken tender, but whose glory is instead made available to the entire globe of poultry practicioners upon which it stands, to be gazed upon in awe and wonder. In this case, look no further than the magnificent “singleton chicken!” After all, what good is it to have a multitude of sub-par chickens, when we can have a single chicken that suits our needs better than all of the rest?
 
 ## Structure
 <img class="ui small right floated circular image" src="../images/decorator_chicken.jpg">
