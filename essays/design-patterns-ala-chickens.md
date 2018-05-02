@@ -24,7 +24,7 @@ The start of any great story begins with creation, and chickens are surely no ex
   <figcaption style="text-align: center"><em>In case you were wondering, chicken actually inherits from dinosaur</em></figcaption>
 </figure>
 
-<img class="ui medium left floated circular image" src="../images/singleton_chicken.png">
+<img class="ui small left floated circular image" src="../images/singleton_chicken.png">
 On the other hand, we may instead find ourselves requiring a solitary exemplar of avian majesty, the ownership of which lies not in the hands of any single chicken connoisseur, but whose glory is instead made available to the entire globe upon which it stands, to be gazed upon in awe and wonder. In this case, look no further than the magnificent “singleton chicken!” After all, what good is it to have a multitude of sub-par chickens, when we can have a single chicken that suits our needs better than all of the rest?
 
 ## Structure
@@ -40,18 +40,18 @@ Many people falsely believe that chicken behavior is a dry, boring subject. Thos
 
 During my time as a lead developer on the Shaka Scheme project, I was presented with many opportunities to leverage a few of the aforementioned design patterns to aid me in tending to my flock. At one point, I discovered that I required a means by which to ensure that the resources devoted to the creation of each chicken would eventually be recycled, without needing to manage the gruesome task myself. In accomplishing this, I leveraged a special instance of the factory pattern to ensure that any expired or unneeded chickens would be dealt with accordingly.  Enter the “garbage collector chicken!” Just kidding, here come code examples illustrating what I found to be an interesting use case of the factory pattern.
 
-`
+``` c++
 /** Implements the internal heap allocated memory object managed by class GC */
 class GCData {
   friend class GC;
   private:
   GCData(const Data& data);
 };
-`
+```
 
 The GCData class has a private constructor, so GCData objects cannot be constructed directly. Instead, one must use the factory `GC` class to create heap allocated objects.
 
-`
+``` c++
 /** Implements the garbage collector object
 class GC {
   public:
@@ -63,7 +63,7 @@ class GC {
   private:
   GCList list; // The collection of managed memory objects
 };
-`
+```
 
 The `GC` object holds an internal collection of pointers to the heap allocated `GCData` objects so that these objects can always be accessed by the language implementation, and freed if they are no longer referenced by the language runtime.
     
