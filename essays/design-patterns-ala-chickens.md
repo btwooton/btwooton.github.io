@@ -26,21 +26,21 @@ When placed in the precarious position of needing to produce a potpourri of poul
   <figcaption style="text-align: center"><em>In case you were wondering, chicken actually inherits from dinosaur</em></figcaption>
 </figure>
 
-<img class="ui small left floated circular image" src="../images/singleton_chicken.png">
+<img class="ui small right floated circular image" src="../images/singleton_chicken.png">
 On the other hand, we may instead find ourselves requiring a solitary exemplar of avian majesty, the ownership of which lies not in the hands of any single chicken tender, but whose glory is instead made available to the entire globe of poultry practicioners upon which it stands, to be gazed upon in awe and wonder. Look no further than the omnipotent “singleton chicken!” After all, what good is it to have a multitude of sub-par chickens, when we can have a single chicken that suits our needs better than the rest?
 
 ## Structure
-<img class="ui small right floated circular image" src="../images/decorator_chicken.jpg">
+<img class="ui small left floated circular image" src="../images/decorator_chicken.jpg">
 While chickens certainly exhibit a highly predictable bodily structure, with feathers, wings, a beak, and talons, there is much that we can do to elaborate on this seemingly mundane phenotype. Are you a bored bird shepherd, looking to add some variety to your flock? Instead of investing precious time and scarce resources in a new group of Galliforms, enlist the aid of the “decorator chicken!” The decorator chicken has the just the right touch of creativity to help each of your chickens learn new behavior, find a new purpose, and gain a new lease on life. 
 
 ## Behavior
 <img class="ui small left floated circular image" src="../images/big_bad_wolf.jpeg">
 <img class="ui small right floated circular image" src="../images/observer_chicken.png">
-Many people falsely believe that chicken behavior is a dry, boring subject. Those people are completely unaware of the existence of the elusive and daring “observer chicken!” When danger is lurking just outside of the hen house, the observer chicken is able to notify his fellow chickens who depend upon him to alert them of potential risks, so that they may respond accordingly. The observer chicken is truly  an exemplar of the complex behavior that these seemingly mundane organisms can exhibit.
+Many people falsely believe that chicken behavior is a dry, boring subject. Those people are completely unaware of the existence of the elusive and daring “observer chicken!” When danger is lurking just outside of the hen house, the observer chicken is able to notify his fellow chickens who depend upon him to alert them of potential risks, so that they may respond accordingly. The observer chicken is truly an exemplar of the complex behavior that these seemingly mundane organisms can exhibit.
 
 ## An Author’s Forays into the Fowlery
 
-During my time as a lead developer on the Shaka Scheme project, I was presented with many opportunities to leverage a few of the aforementioned design patterns to aid me in tending to my flock. At one point, I discovered that I required a means by which to ensure that the resources devoted to the creation of each chicken would eventually be recycled, without needing to manage the gruesome task myself. In accomplishing this, I leveraged a special instance of the factory pattern to ensure that any expired or unneeded chickens would be dealt with accordingly.  Enter the “garbage collector chicken!” Just kidding, here come code examples illustrating what I found to be an interesting use case of the factory pattern.
+During my time as a lead developer on the Shaka Scheme project, I was presented with many opportunities to leverage a few of the aforementioned design patterns to aid me in tending to my flock. At one point, I discovered that I required a means by which to ensure that the resources devoted to the creation of each chicken would eventually be recycled, without needing to manage the gruesome task myself. In accomplishing this, I leveraged a special instance of the factory pattern to ensure that any expired or unneeded chickens would be dealt with accordingly.  Enter the “garbage collector chicken!” Just kidding. Here are some code examples illustrating what I found to be an interesting, specialized use case of the factory pattern.
 
 ``` c++
 /** Implements the internal heap allocated memory 
