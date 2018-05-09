@@ -6,7 +6,7 @@
     "email": "bwooton@hawaii.edu",
     "phone": "808-651-2753",
     "website": "https://btwooton.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to transition into the M.S. program starting Fall 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am transitioning into the M.S. program starting Fall 2018.",
     "location": {
       "address": "1257 13th Avenue #2",
       "postalCode": "96816",
@@ -68,7 +68,10 @@
         "Java",
         "JavaScript",
         "Scheme",
-        "Python"
+        "Python",
+        "Meteor",
+        "React",
+        "MongoDB"
       ]
     },
     {
