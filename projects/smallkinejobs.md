@@ -16,8 +16,8 @@ summary: Small Kine Jobs is an application that allows UH students to find short
 ---
 
 ## Purpose of Small Kine Jobs
-<img class="ui large centered rounded image" src="../images/landingpagedraft2.PNG">
 It is no secret that a majority of university students could benefit from a convenient means of making some extra income. Whether to help pay for education related expenses, food, rent, or the occasional much needed leisure, having access to quick cash can go a long way towards easing the financial burdens associated with college life. Students at the University of Hawaii are certainly no exception to this, which is why <a href="https://victor-jr.github.io/">Victor Garcia</a>, <a href="https://htobin.github.io/">Hoku Tobin</a> and I decided to create Small Kine Jobs!
+<img class="ui large centered rounded image" src="../images/landingpagedraft2.PNG">
 
 At its core, Small Kine Jobs is a platform designed to enable UH students to find short term job opportunities on campus. Many students have schedules that are too packed to accomodate a conventional full-time/part-time on-campus job. Others are only at the university for a semester or two. These students can surely benefit from having access to short-term jobs that last for only a few hours to a few days.
 
