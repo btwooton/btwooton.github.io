@@ -31,9 +31,8 @@ In terms of the actual code that I wrote, the majority of my time was spent brai
 
 In addition to model development, I also reached into the UI side of the application a few times, aiding in the implementation of features such as: a feedback button and modal that allows employees and employers to rate each other after completing a job, a button that allows employees to mark any of their in-progress jobs as completed, and an invite functionality that allows employers to invite their past helpers to new jobs that they need to fill. 
 <figure>
-  <div class="ui medium images">
+  <div class="ui small images">
     <img src="../images/finalHelperSubmitFeedback.PNG">
-    <img src="../images/finalRateHelper.PNG">
     <img src="../images/finalcompleteJobHelper.PNG">
     <img src="../images/finalInvitePastUserToOtherJob.PNG">  
   </div>
