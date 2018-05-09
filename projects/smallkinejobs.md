@@ -6,7 +6,7 @@ image: images/skj_landing.png
 title: Small Kine Jobs
 permalink: projects/smallkinejobs
 # All dates must be YYYY-MM-DD format!
-date: 2017-05-08
+date: 2018-05-08
 labels:
   - Web Development
   - Meteor
