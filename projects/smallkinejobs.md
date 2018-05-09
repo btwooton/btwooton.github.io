@@ -33,7 +33,6 @@ In addition to model development, I also reached into the UI side of the applica
 <figure>
   <div class="ui centered medium images">
     <img src="../images/finalHelperSubmitFeedback.PNG">
-    <img src="../images/finalcompleteJobHelper.PNG">
     <img src="../images/finalInvitePastUserToOtherJob.PNG">  
   </div>
   <figcaption><em>A few of the UI features that I implemented</em></figcaption>
