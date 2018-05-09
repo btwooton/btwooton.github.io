@@ -31,12 +31,12 @@ In terms of the actual code that I wrote, the majority of my time was spent brai
 
 In addition to model development, I also reached into the UI side of the application a few times, aiding in the implementation of features such as: a feedback button and modal that allows employees and employers to rate each other after completing a job, a button that allows employees to mark any of their in-progress jobs as completed, and an invite functionality that allows employers to invite their past helpers to new jobs that they need to fill. 
 <figure>
-  <div class="ui small images">
+  <div class="ui centered medium images">
     <img src="../images/finalHelperSubmitFeedback.PNG">
     <img src="../images/finalcompleteJobHelper.PNG">
     <img src="../images/finalInvitePastUserToOtherJob.PNG">  
   </div>
-  <figcaption>A few of the UI features that I implemented</figcaption>
+  <figcaption><em>A few of the UI features that I implemented</em></figcaption>
 </figure>
 Working on both the UI and the back-end of the application was a lot of fun. I was able to gain a deeper understanding of how data is passed through the various React components that make up the overall application, and how complex interactions between these components can be achieved via the use of a few simple Javascript callback functions.
 
@@ -44,7 +44,7 @@ Working on both the UI and the back-end of the application was a lot of fun. I w
 Aside from writing code, my second major contribution to the project came in the form of my ability to share my knowledge of some git best practices. I was able to teach both of my teammates to use GitHub's pull request system to issue their new features to the application repository. I find pull requests to be a more robust and worry-free way to manage the development of new features than simple git branching/merging, which can lead to rampant merge conflicts. I walked them through forking the repo, setting up their remotes for pushing and fetching, and coached them on performing frequent rebases from the master branch to avoid merge conflicts. In doing so, not only was I able to teach them valuable skills that they will be able to apply in the future, but I also reinforced and deepened my own knowledge of git, GitHub, and version control.
 <figure>
   <img class="ui large centered image" src="../images/pull_request.png">
-  <figcaption>The pull request system is also integrates well with GitHub's issue tracker</figcaption>
+  <figcaption><em>The pull request system is also integrates well with GitHub's issue tracker</em></figcaption>
 </figure>
 Overall, I would say that my experience working on this project with my teammates was a positive one. I was able to gain valuable experience working with a small, tight-knit team of programmers to develop a non-trivial web application using a plethora of modern development tools. I was able to see how IDEs such as IntelliJ, code quality tools like ESLint, version control systems like GitHub, and application frameworks like Meteor can be leveraged simultaneously to facilitate the rapid development of complex systems that can continue to scale to meet changing software requirements.
 
