@@ -2,8 +2,8 @@
 layout: project
 type: project
 published: true
-image: images/shaka_scheme_repl.png
-title: Smallkine Jobs
+image: images/skj_landing.png
+title: Small Kine Jobs
 permalink: projects/smallkinejobs
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-08
