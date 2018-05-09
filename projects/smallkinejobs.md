@@ -10,7 +10,8 @@ date: 2018-05-08
 labels:
   - Web Development
   - Meteor
-  - ReactJS
-  - Semantic UI
-summary: My partners and I developed a web application that allows University of Hawaii employers and/or affiliates to hire temporary laborers for a variety of skilled/unskilled jobs.
+  - Semantic UI React
+  - MongoDB
+  - Javascript
+summary: Small Kine Jobs is an application that allows UH students to find short term employment opportunities through UH employers in a fast and easy manner
 ---
