@@ -18,7 +18,7 @@ For any army to succeed upon the battlefield, it is imperative that it remain in
 
 Just as standards were central to allowing the roman military to remain veritably unchecked for centuries, so too are coding standards a crucial tool which enable software engineers to lead their endless ranks of code to victory. Without standards, code devolves into a convoluted vortex of ASCII characters, fated to consume any unwary programmers who dare to gaze upon it. In contrast, code that adheres to a set standard maintains a level of professional aesthetic that any purposeful software engineer could have a sense of pride in.
 
-<img src="../images/js.png" class="ui tiny circular left floated image">
+<img src="../images/js.png" class="ui small circular left floated image">
 When programming in a language like JavaScript--a true barbarian’s language, fraught with subtleties, a lax typing system, and little to no error control--one can be well served by coding standards and inspection tools. Over the past week spent learning to use ESLint along with the IntelliJ IDE, I have come to appreciate how enabling it is to have a linter automatically review the quality of my JavaScript code. While my JavaScript minions were at first an undisciplined rabble, after rigorous grooming at the temple of ESLint, under the tutelage of the Airbnb style gurus, they are now a well structured, coherent unit, ready to conquer even the most difficult of algorithmic tasks.
 <img src="../images/eslint.png" class="ui small circular right floated image">
 
