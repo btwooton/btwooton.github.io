@@ -35,7 +35,7 @@ In addition to model development, I also reached into the UI side of the applica
     <img src="../images/finalHelperSubmitFeedback.PNG">
     <img src="../images/finalInvitePastUserToOtherJob.PNG">  
   </div>
-  <figcaption><em>A few of the UI features that I implemented</em></figcaption>
+  <figcaption><em>A couple of the UI features that I implemented with React Semantic UI</em></figcaption>
 </figure>
 Working on both the UI and the back-end of the application was a lot of fun. I was able to gain a deeper understanding of how data is passed through the various React components that make up the overall application, and how complex interactions between these components can be achieved via the use of a few simple Javascript callback functions.
 
