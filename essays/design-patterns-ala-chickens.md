@@ -12,14 +12,14 @@ labels:
 ## A Convenient Heuristic
 
 <img class="ui small right floated rounded image" src="../images/ninja_chicken.png">
-Design patterns are essentially prepackaged, general purpose solutions that can be applied to solve common problems that frequently crop up in the design of complex software systems. Design patterns have been claimed to enable rookie coders to harness the powers of the infamous hacker ninja! However, the concept of design patterns is far from a trivial one, which is why I have decided to leave it up to the chickens to elaborate on the intricacies of this subject. The biological life history of any jungle fowl can be summarized into three broad topics: creation, structure and behavior.
+Design patterns are essentially prepackaged, general purpose solutions that can be applied to solve common problems that frequently crop up in the design of complex software systems. Design patterns have been claimed to enable rookie coders to harness the powers of the infamous hacker ninja! However, the concept of design patterns is far from a trivial one, which is why I have decided to leave it up to the chickens to elaborate on the intricacies of this subject. The biological life history of any jungle fowl can be summarized into three broad topics: creation, structure, and behavior.
 
 ## Creation
 
 <img class="ui small left floated circular image" src="../images/chicken_or_egg.jpg">
 The start of any great story begins with creation, and chickens are surely no exception to this. Sometimes, we want to be able to go off and manufacture a diverse array of chickens, without getting bogged down by the details of how to actually create each individual hen or rooster.
 <img class="ui small right floated circular image" src="../images/chicken_factory.jpg">
-When placed in the precarious position of needing to produce a potpourri of poultry-perfection, one should surely leave it up to a factory to yield the desired products. The primary benefit of delegating the creation of chickens to a factory, is that the factory is essentially capable of creating any quantity, and any type of chicken you could imagine, such as the majestic “honor your ancestors chicken.” He is still a chicken, and yet, so much more.
+When placed in the precarious position of needing to produce a potpourri of poultry-perfection, one should surely leave it up to a factory to yield the desired products. The primary benefit of delegating the creation of chickens to a factory is that the factory is essentially capable of creating any quantity, and any type of chicken you could imagine, such as the majestic “honor your ancestors chicken.” He is still a chicken, and yet, so much more.
 
 <figure>
 <img class="ui medium centered rounded image" src="../images/chicken_dinosaur.jpg">
@@ -27,11 +27,11 @@ When placed in the precarious position of needing to produce a potpourri of poul
 </figure>
 
 <img class="ui small right floated circular image" src="../images/singleton_chicken.png">
-On the other hand, we may instead find ourselves requiring a solitary exemplar of avian majesty, the ownership of which lies not in the hands of any single chicken tender, but whose glory is instead made available to the entire globe of poultry practicioners upon which it stands, to be gazed upon in awe and wonder. Look no further than the omnipotent “singleton chicken!” After all, what good is it to have a multitude of sub-par chickens, when we can have a single chicken that suits our needs better than the rest?
+On the other hand, we may instead find ourselves requiring a solitary exemplar of avian majesty, the ownership of which lies not in the hands of any single chicken tender, but whose glory is instead made available to the entire globe of poultry practitioners upon which it stands, to be gazed upon in awe and wonder. Look no further than the omnipotent “singleton chicken!” After all, what good is it to have a multitude of sub-par chickens, when we can have a single chicken that suits our needs better than the rest?
 
 ## Structure
 <img class="ui small right floated circular image" src="../images/decorator_chicken.jpg">
-While chickens certainly exhibit a highly predictable bodily structure, with feathers, wings, a beak, and talons, there is much that we can do to elaborate on this seemingly mundane phenotype. Are you a bored bird shepherd, looking to add some variety to your flock? Instead of investing precious time and scarce resources in a new group of Galliforms, enlist the aid of the “decorator chicken!” The decorator chicken has the just the right touch of creativity to help each of your chickens learn new behavior, find a new purpose, and gain a new lease on life. 
+While chickens certainly exhibit a highly predictable bodily structure, with feathers, wings, a beak, and talons, there is much that we can do to elaborate on this seemingly mundane phenotype. Are you a bored bird shepherd, looking to add some variety to your flock? Instead of investing precious time and scarce resources in a new group of Galliforms, enlist the aid of the “decorator chicken!” The decorator chicken has the just the right touch of creativity to help each of your chickens learn a new behavior, find a new purpose, and gain a new lease on life. 
 
 ## Behavior
 <img class="ui small left floated circular image" src="../images/big_bad_wolf.jpeg">
@@ -71,4 +71,4 @@ class GC {
 
 The `GC` object holds an internal collection of pointers to the heap allocated `GCData` objects so that these objects can always be accessed by the language implementation, and deallocated if they are no longer referenced by the language runtime.
     
-What arose from this design turned out to be a compact and uniform means of creating heap allocated objects, while having their resources managed by the Garbage Collector by default. A potential improvement to this design could have been to set up the Garbage Collector as a singleton, so that only a single instance of the `GC` class could exist in the Scheme runtime at a given time. In summary, I believe that design patterns can serve to ease the cognitive burden involved in designing complex systems. Design patterns enable programmers to translate their ideas into code more readily than they would otherwise be able to if they were forced to always come up with a new design on their own. Don’t believe me? Just ask the chickens!
+What arose from this design turned out to be a compact and uniform means of creating heap-allocated objects, while having their resources managed by the Garbage Collector by default. A potential improvement to this design could have been to set up the Garbage Collector as a singleton so that only a single instance of the `GC` class could exist in the Scheme runtime at a given time. In summary, I believe that design patterns can serve to ease the cognitive burden involved in designing complex systems. Design patterns enable programmers to translate their ideas into code more readily than they would otherwise be able to if they were forced to always come up with a new design on their own. Don’t believe me? Just ask the chickens!
