@@ -13,5 +13,5 @@ labels:
   - Semantic UI React
   - MongoDB
   - Javascript
-summary: Small Kine Jobs is an application that allows UH students to find short term employment opportunities through UH employers in a fast and easy manner
+summary: Small Kine Jobs is an application that allows UH students to find short term employment opportunities at the University of Hawaii in a fast and easy manner.
 ---
