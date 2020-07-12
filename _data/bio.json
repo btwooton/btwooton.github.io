@@ -6,10 +6,10 @@
     "email": "bwooton@hawaii.edu",
     "phone": "808-651-2753",
     "website": "https://btwooton.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to transition into the M.S. program starting Fall 2018.",
+    "summary": "I am currently studying for an M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
-      "address": "1257 13th Avenue #2",
-      "postalCode": "96816",
+      "address": "918 Wiliwili Street APT A1",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -50,11 +50,11 @@
       ]
     },
     {
-      "name": "Indie Game Development",
+      "name": "Data Science",
       "keywords": []
     },
     {
-      "name": "Cellular Automata",
+      "name": "Data Visualization",
       "keywords": []
     }
   ],
@@ -68,7 +68,10 @@
         "Java",
         "JavaScript",
         "Scheme",
-        "Python"
+        "Python",
+        "Meteor",
+        "React",
+        "MongoDB"
       ]
     },
     {
@@ -81,23 +84,24 @@
         "gcc/g++",
         "Allegro5",
         "GNU make",
-        "cmake"
+        "cmake",
+        "Anaconda"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
-      "studyType": "B.S.",
-      "startDate": "2017-01-08",
+      "area": "Computer Science (expected Fall, 2020)",
+      "studyType": "M.S.",
+      "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "3.87",
+      "gpa": "4.0",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "ICS 141",
-        "ICS 241"
+        "ICS 691C",
+        "ICS 691E",
+        "ICS 635",
+        "ICS 668"
       ]
     },
     {
@@ -117,6 +121,18 @@
     }
   ],
   "work": [
+    {
+      "company": "LAVA",
+      "position": "Research Assistant",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "2019-01-04",
+      "endDate": "Present",
+      "summary": "Assist in research and application development related to Data Analytics and Data Visualization",
+      "highlights": [
+        "Assist in the development of a decision support tool for landslide and flood disaster response",
+        "Assist in the development of a textual visual analytics tool"
+      ]
+    },
     {
       "company": "UH Manoa Student Athlete Academic Services",
       "position": "Database Developer",

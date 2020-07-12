@@ -15,7 +15,7 @@ labels:
 My journey as a software engineer and developer began unassumingly enough. As a young and inexperienced lab technician at the Hawaii Cooperative Fishery Research Unit, I began to grow weary of spending day after day sawing away furiously at dead groupers, leaving the lab covered in scales and fish offal. Somehow, I had imagined that life as a marine biologist would be more glamorous than this.
 
 <img class="ui small right rounded floated image" src="../images/r-logo.jpeg">
-I found solace in performing data analysis utilizing the R programming language and statistical environment. I was mesmerized by how a simple series of text based commands could compel the computer to produce elaborate charts and figures. I wondered, “what else can I do with this newfound craft of programming?”
+I found solace in performing data analysis utilizing the R programming language and statistical environment. I was mesmerized by how a simple series of text-based commands could compel the computer to produce elaborate charts and figures. I wondered, “what else can I do with this newfound craft of programming?”
 
 ## Down the Rabbit Hole
 
@@ -33,7 +33,7 @@ If I was going to become a competent enough programmer, capable of developing co
 ## A Programming Language Polyglot
 
 <img class="ui small right rounded floated image" src="../images/first-class-function.png">
-What was intended to be a brief inquiry quickly developed into a long term obsession. I was enamored by the seemingly endless variety of programming languages available to the would be programmer. Over the course of 7 years, I bounced between Ruby, Java, Perl, C, Prolog, Pascal, Ada, Common Lisp, Scheme, Haskell, Standard ML, and even occasionally revisited Python and C++. I discovered an affinity for the functional programming languages such as Haskell and Standard ML, as these languages possess high level language constructs such as algebraic data types, first class functions, and pattern matching that I found to be both mind bending and aesthetically pleasing. As an unfortunate byproduct of my sort of “language attention deficit,” I spent more time sampling the different languages than I did composing complex programs in any one language. If I was to become an accomplished software developer, I needed to find a way to narrow my focus.
+What was intended to be a brief inquiry quickly developed into a long-term obsession. I was enamored by the seemingly endless variety of programming languages available to the would-be programmer. Over the course of 7 years, I bounced between Ruby, Java, Perl, C, Prolog, Pascal, Ada, Common Lisp, Scheme, Haskell, Standard ML, and even occasionally revisited Python and C++. I discovered an affinity for the functional programming languages such as Haskell and Standard ML, as these languages possess high-level language constructs such as algebraic data types, first-class functions, and pattern matching that I found to be both mind-bending and aesthetically pleasing. As an unfortunate byproduct of my sort of “language attention deficit,” I spent more time sampling the different languages than I did composing complex programs in any one language. If I was to become an accomplished software developer, I needed to find a way to narrow my focus.
 
 ## Building a Foundation
 
@@ -43,4 +43,4 @@ I decided that the best way to re-approach the field of computer science from fi
 ## Facing the Future
 
 <img class="ui small right rounded floated image" src="../images/future.jpg">
-In the future, I hope to find creative ways to blend my background as a biologist, enthusiasm for  programming languages and theory, and passion for software development together. I am looking forward to learning full stack development in MeteorJS this semester in ICS 314. Web development is a domain that I have had little to no prior exposure to, so I am looking forward to acquiring a new set of skills. My hope is that I will develop a modicum of good taste, intuition, and creative vision that will enable me to produce large scale applications that solve real world issues.
+In the future, I hope to find creative ways to blend my background as a biologist, enthusiasm for programming languages and theory, and passion for software development together. I am looking forward to learning full stack development in MeteorJS this semester in ICS 314. Web development is a domain that I have had little to no prior exposure to, so I am looking forward to acquiring a new set of skills. My hope is that I will develop a modicum of good taste, intuition, and creative vision that will enable me to produce large-scale applications that solve real-world issues.
