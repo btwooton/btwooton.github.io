@@ -19,7 +19,7 @@ summary: GIS SAGE is a SAGE2 plugin to facilitate the quick creation of geospati
 One of the primary benefits of the SAGE2 platform is that it seamlessly combines collaboration and visualization functionality on large display systems.
 
 At its core, GIS SAGE is a SAGE2 native application designed to allow users to quickly import geospatial data into the SAGE2 environment and quickly create a visualization of that data by tweaking various filters and visual variables.
-<img class="ui large centered rounded image" src="../images/gissage.png">
+<img class="ui large right image" src="../images/gissage.png">
 The user is able to drag either a .geojson, .json, or .csv file to the SAGE2 powered CyberCANOE, and an interactive basemap visualizing the respective geospatial data will appear on the wall. Once the data is loaded on the wall, the user may manipulate the appearance of the layer that is rendering the data, for example, by sizing lat-long points corresponding to earthquake events by magnitude, and coloring them by depth. 
 
 ## Development
