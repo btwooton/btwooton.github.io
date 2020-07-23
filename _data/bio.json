@@ -51,11 +51,11 @@
     },
     {
       "name": "Data Science",
-      "keywords": []
+      "keywords": ["Machine Learning", "Deep Learning", "Natural Language Processing"]
     },
     {
       "name": "Data Visualization",
-      "keywords": []
+      "keywords": ["D3.js", "Geospatial Visualization"]
     }
   ],
   "skills": [
@@ -71,7 +71,9 @@
         "Python",
         "Meteor",
         "React",
-        "MongoDB"
+        "MongoDB",
+        "Leaflet",
+        "Mithriljs"
       ]
     },
     {
@@ -85,7 +87,8 @@
         "Allegro5",
         "GNU make",
         "cmake",
-        "Anaconda"
+        "Anaconda",
+        "npm"
       ]
     }
   ],
@@ -101,7 +104,11 @@
         "ICS 691C",
         "ICS 691E",
         "ICS 635",
-        "ICS 668"
+        "ICS 668",
+        "ICS 622",
+        "ICS 685",
+        "ICS 690",
+        "ICS 675"
       ]
     },
     {
@@ -130,7 +137,8 @@
       "summary": "Assist in research and application development related to Data Analytics and Data Visualization",
       "highlights": [
         "Assist in the development of a decision support tool for landslide and flood disaster response",
-        "Assist in the development of a textual visual analytics tool"
+        "Assist in the development of a textual visual analytics tool",
+        "Assisted in writing the science driven outcomes of the SAGE3 NSF Grant"
       ]
     },
     {
