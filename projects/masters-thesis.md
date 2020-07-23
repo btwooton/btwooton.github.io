@@ -63,7 +63,7 @@ The initial result of training this model on the 20newsgroups and BBC News Artic
 To demonstrate the unification of these two components, I developed a prototype visual analytics tool which allows a user to interactively explore the
 <a href="https://www.kaggle.com/yufengdev/bbc-fulltext-and-category">BBC News Articles</a> dataset using an interactive scatter plot that allows the user
 to steer the latent space by positioning and grouping 2D-points (representing articles) together based on how they think these articles relate to one another.
-<img class="ui huge centered rounded image" src="../images/thesis_prototype.png"
+<img class="ui huge centered rounded image" src="../images/thesis_prototype.png">
 Thus far, the prototype has demonstrated that these models are able to generate a tightly clustered latent representation of the data, and remain flexible
 to the user's own decisions regarding how many clusters to partition the data into, and which datapoints should belong in which cluster.
 
